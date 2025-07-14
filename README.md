@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Bean Analysis App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I used React to create a UI where users can upload leaf images, select a classification model (MobileNetV3 Large, RestNet) to diagnose presence of Bean rust or Angular spot disease
 
 ## Available Scripts
 
